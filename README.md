@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaydon</h1>
 <h3 align="center">A passionate cybersecurity graduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayd0n2&label=Profile%20views&color=0e75b6&style=flat" alt="jayd0n2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayd0n2" alt="jayd0n2" /></a> </p>
-
 - 🌱 I’m currently learning: **penetration testing**
 
 - 👨‍💻 My website is available at: [https://jayd0n2.github.io/Website/](https://jayd0n2.github.io/Website/)
