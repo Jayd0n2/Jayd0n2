@@ -20,7 +20,7 @@
 <h3 align="left">TryHackMe Badge:</h3>
 <p>
   <a href="https://tryhackme.com/p/3954164" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/3954164.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/H4CK3DD.png" alt="Your Image Badge" />
   </a>
 </p>
 
