@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaydon</h1>
+<h1 align="center">Hey there 👋, I'm Jaydon</h1>
 <h3 align="center">A passionate cybersecurity graduate</h3>
 
 - 🌱 I’m currently learning: **Penetration testing on TryHackMe**
