@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayd0n2" alt="jayd0n2" /></a> </p>
 
-- 🌱 I’m currently learning **penetration testing**
+- 🌱 I’m currently learning: **penetration testing**
 
-- 👨‍💻 My website is available at [https://jayd0n2.github.io/Website/](https://jayd0n2.github.io/Website/)
+- 👨‍💻 My website is available at: [https://jayd0n2.github.io/Website/](https://jayd0n2.github.io/Website/)
 
-- 📫 How to reach me **qjaydon@gmail.com**
+- 📫 How to reach me: **qjaydon@gmail.com**
 
-- 📄 Know about my experiences [https://jayd0n2.github.io/Website/assets/Jaydon_Quek_CV.pdf](https://jayd0n2.github.io/Website/assets/Jaydon_Quek_CV.pdf)
+- 📄 Know about my experiences: [https://jayd0n2.github.io/Website/assets/Jaydon_Quek_CV.pdf](https://jayd0n2.github.io/Website/assets/Jaydon_Quek_CV.pdf)
 
-- ⚡ Fun fact **I make guitar tabs**
+- ⚡ Fun fact: **I make guitar tabs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
