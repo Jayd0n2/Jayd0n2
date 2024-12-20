@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jaydon-quek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydon quek" height="30" width="40" /></a>
 </p>
-<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3954164" style='border:none;'></iframe></p>
 
 <h3 align="left">TryHackMe Badge:</h3>
 <p>
