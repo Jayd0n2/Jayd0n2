@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Jaydon</h1>
 <h3 align="center">A passionate cybersecurity graduate</h3>
 
-- 🌱 I’m currently learning: **Penetration testing on TryHackMe and Docker 🐳**
+- 🌱 I’m currently learning: **SOC Level 1 on TryHackMe and Docker 🐳**
 
 - 👨‍💻 My website is available at: [https://jayd0n2.github.io/Website/](https://jayd0n2.github.io/Website/)
 
